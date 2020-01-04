@@ -1,0 +1,5 @@
+cat1(GTAT) = 1464
+cat2(GCAT) = 1989
+cat3(ATGG) = 1344
+cat4(other) = 211
+Tally = 5008
